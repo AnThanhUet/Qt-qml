@@ -26,5 +26,15 @@ Window {
         }
     }
 
+    Contact
+    {
+        id: contact
+        onContactClick:
+        {
+            state = "main"
+
+        }
+    }
+
 
 }
