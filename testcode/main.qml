@@ -13,7 +13,7 @@ Window {
         id: cardName
         x: 18
         y: 18
-        //z: 1
+        z: 1
         MouseArea{
             anchors.fill: parent
             onClicked:{

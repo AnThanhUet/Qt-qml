@@ -1,0 +1,4 @@
+class Backend: public QObject
+{
+
+};
